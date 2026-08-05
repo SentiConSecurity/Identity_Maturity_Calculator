@@ -1,4 +1,4 @@
-# Identity Program Maturity Calculator (2026)
+# Identity Maturity Calculator (2026)
 
 A structured Excel-based framework for evaluating the maturity of an organization's identity security program across nine capability domains and 36 assessment questions. Built on the SEI Capability Maturity Model Integration (CMMI) framework, this tool enables security teams to baseline their current identity security posture, identify capability gaps, and prioritize remediation efforts using a consistent, repeatable methodology.
 > This worksheet is the product of applied identity security program experience, adapted specifically for the realities of modern identity estates, human, machine, and increasingly, AI and agentic identities.
