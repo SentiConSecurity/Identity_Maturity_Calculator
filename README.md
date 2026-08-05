@@ -79,23 +79,19 @@ Full guidance, including tips for consistent and defensible scoring, is in the [
 - [CHANGELOG](CHANGELOG.md) — version history
 
 ---
-## Screenshots
+## Results
 
-### Instructions
+### Domain Radar Score
 
-![Instructions tab](docs/screenshots/instructions-tab.png)
+![Instructions tab](docs/screenshots/domain-radar-tab2.png)
 
-### Priority View
+### Domain Tabular Score
+
+![Priority View tab](docs/screenshots/domain-score-tab2.png)
+
+### Priority Score 
 
 ![Priority View tab](docs/screenshots/priority-view-tab.png)
-
-![Radar Chart](docs/screenshots/instructions-tab.png)
-
-<img width="2351" height="2090" alt="Radar Chart" src="https://github.com/user-attachments/assets/6bf898c2-b128-46e1-baed-f09e1d2dae82" />
-<img width="1114" height="682" alt="IAm2" src="https://github.com/user-attachments/assets/84051513-7b8a-4cd6-b456-2eb4513d29b7" />
-
-
-
 
 
 ---
