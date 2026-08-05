@@ -1,7 +1,7 @@
 # Identity Program Maturity Calculator (2026)
 
 A structured Excel-based framework for evaluating the maturity of an organization's identity security program across nine capability domains and 36 assessment questions. Built on the SEI Capability Maturity Model Integration (CMMI) framework, this tool enables security teams to baseline their current identity security posture, identify capability gaps, and prioritize remediation efforts using a consistent, repeatable methodology.
-
+> This worksheet is the product of applied identity security program experience, adapted specifically for the realities of modern identity estates, human, machine, and increasingly, AI and agentic identities.
 The assessment covers Identity Foundations & Data Quality, Governance & Lifecycle, Access Architecture & Authentication, Privileged & Elevated Access, Non-Human & Workload Identity, Identity Security Operations, Contextual Trust & Adaptive Access, AI & Autonomous Identity, and Identity Technical Debt.
 
 Each capability is scored on a 0–5 maturity scale. Results are visualized through a radar chart showing average maturity by domain and a dynamic priority view that automatically surfaces the lowest-scoring capabilities for immediate attention.
@@ -13,12 +13,11 @@ Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Inte
 <img width="2351" height="2090" alt="IAM" src="https://github.com/user-attachments/assets/6bf898c2-b128-46e1-baed-f09e1d2dae82" />
 <img width="1114" height="682" alt="IAm2" src="https://github.com/user-attachments/assets/84051513-7b8a-4cd6-b456-2eb4513d29b7" />
 
-> This worksheet is the product of applied identity security program experience, adapted specifically for the realities of modern identity estates — human, machine, and increasingly, AI and agentic identities.
-
+---
 ## Download
 
-The latest version of the workbook is available on the [Releases](https://github.com/SentiConSecurity/Identity_Maturity_Calculator/releases) page as `Identity_Maturity_Assessment.xlsx`. Download the file directly — do not rely on the auto-generated source-code archives, which do not contain the spreadsheet.
-
+The latest version of the workbook is available on the [Releases](https://github.com/SentiConSecurity/Identity_Maturity_Calculator/releases) page as `Identity_Maturity_Assessment.xlsx`. 
+> Download the file directly — do not rely on the auto-generated source-code archives, which do not contain the spreadsheet.
 ## What It Measures
 
 The assessment covers **9 domains** and **36 questions** (4 per domain):
@@ -46,6 +45,7 @@ Each question is scored **0–5** against a common maturity scale:
 | 4 | Managed | Quantitatively measured and actively managed using metrics. |
 | 5 | Optimized | Continuous improvement embedded. Adapts proactively to change. |
 
+---
 ## Workbook Structure
 
 | Tab | Purpose |
@@ -58,14 +58,8 @@ Each question is scored **0–5** against a common maturity scale:
 
 The workbook also contains a hidden `_helper` sheet used internally to power the Priority View sort — it should not be deleted, renamed, or unhidden during normal use.
 
-## Screenshots
 
-**Instructions**
-![Instructions tab](docs/screenshots/instructions-tab.png)
-
-**Priority View**
-![Priority View tab](docs/screenshots/priority-view-tab.png)
-
+---
 ## How to Use It
 
 1. Download the workbook from [Releases](https://github.com/SentiConSecurity/Identity_Maturity_Calculator/releases).
@@ -77,6 +71,7 @@ The workbook also contains a hidden `_helper` sheet used internally to power the
 
 Full guidance, including tips for consistent and defensible scoring, is in the [wiki](https://github.com/SentiConSecurity/Identity_Maturity_Calculator/wiki).
 
+---
 ## Documentation
 
 - [Wiki Home](https://github.com/SentiConSecurity/Identity_Maturity_Calculator/wiki) — full usage guidance, philosophy, and references
@@ -86,6 +81,17 @@ Full guidance, including tips for consistent and defensible scoring, is in the [
 - [References](https://github.com/SentiConSecurity/Identity_Maturity_Calculator/wiki/References) — source frameworks and further reading
 - [CHANGELOG](CHANGELOG.md) — version history
 
+---
+## Screenshots
+
+## Instructions
+
+![Instructions tab](docs/screenshots/instructions-tab.png)
+
+## Priority View
+
+![Priority View tab](docs/screenshots/priority-view-tab.png)
+---
 ## License
 
 © 2026 John Masserini. All rights reserved.
