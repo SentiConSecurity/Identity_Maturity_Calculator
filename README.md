@@ -84,11 +84,11 @@ Full guidance, including tips for consistent and defensible scoring, is in the [
 ---
 ## Screenshots
 
-## Instructions
+### Instructions
 
 ![Instructions tab](docs/screenshots/instructions-tab.png)
 
-## Priority View
+### Priority View
 
 ![Priority View tab](docs/screenshots/priority-view-tab.png)
 ---
